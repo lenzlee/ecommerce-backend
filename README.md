@@ -7,7 +7,9 @@ In this project, we were asked to build the back end for an e-commerce site usin
 ## URLs submitted:
 * My Github Repo URL: https://github.com/lenzlee/ecommerce-backend
 
-* Video Walk-Through: 
+* Video Walk-Through (via YouTube): https://youtu.be/U32ETWlEOEU
+
+* Video Walk-Through (via Awesome Screenshot): https://www.awesomescreenshot.com/video/21915571?key=cbcc6ed09cb37e491b339a5762effe49 
 
 ## References/Resources:
 I mostly referred to our recent lessons/activities for this assignment. 
@@ -33,3 +35,14 @@ I mostly referred to our recent lessons/activities for this assignment.
 
 ## Screenshots:
 
+* Insomnia Screenshot | Get All Categories
+
+![Insomnia Screenshot | Get All Categories](./assets/insomnia-screenshot-getAllCategories.png)
+
+* Local Host Screenshot | Get All Products
+
+![Local Host Screenshot | Get All Products](./assets/screenshot-localhost-products.png)
+
+* MySQL Screenshot | Database, Tables, Category Table Fields, Category Data
+
+![MySQL Screenshot](./assets/screenshot-mysql.png)
