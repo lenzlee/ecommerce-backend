@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-back-end-orm-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bootcamp Module 13: Object-Relational Mapping (ORM) Challenge - E-commerce Back End",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,13 +14,13 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lenzlee Wheeler",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.22"
   },
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "mysql2": "^2.1.0",
     "sequelize": "^5.21.7"
